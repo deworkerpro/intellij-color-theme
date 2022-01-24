@@ -3,8 +3,8 @@
   <metaInfo>
     <property name="created">2020-12-17T15:35:49</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-17T15:35:58</property>
+    <property name="ideVersion">2021.3.1.0.0</property>
+    <property name="modified">2022-01-24T14:14:40</property>
     <property name="originalScheme">DeworkerPro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -194,6 +194,11 @@
     <option name="PHP_DOC_VAR">
       <value>
         <option name="FOREGROUND" value="99afaa" />
+      </value>
+    </option>
+    <option name="PHP_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="879a96" />
       </value>
     </option>
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
